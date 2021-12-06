@@ -1,5 +1,11 @@
 {
- "name": "App",
+ "name":"NONSENSE",
+ "short_name":"NONSENSE",
+ "start_url":"https://nonsense-v1.blogspot.com/",
+ "display":"standalone",
+ "background_color":"#e5e5e5",
+ "theme_color":"#3f00ff",
+ "description":"Web baca manga dan lainnya.",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
